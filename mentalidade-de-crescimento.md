@@ -1,4 +1,4 @@
-# Soft Skill - Mentalidade de Crescimento
+# Soft Skills - Mentalidade de Crescimento
 
 ### Pontos importantes
 
