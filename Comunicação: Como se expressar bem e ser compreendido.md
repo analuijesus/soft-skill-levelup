@@ -3,7 +3,7 @@
 ### Pontos importantes
 
 * Ouvir a todos;
-* Perguntar a opinião e todos;
+* Perguntar a opinião de todos;
 * Tentar entender/aceitar pontos de vista diferentes do que acreditamos;
 * Pessoas tímidas querem/precisam ser ouvidas;
 * Medir o tom com que irá falar sobre pontos positivos e negativos;
