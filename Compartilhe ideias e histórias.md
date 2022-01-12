@@ -8,11 +8,11 @@
 * Se houver medo de falar em público, é importante que a coragem seja maior;
 * Atentar-se que detalhes não importantes são desnecessários não é relevante para o público saber de um almoço acompanhado de colegas de trabalho, por exemplo.
 * Entender quem é nosso público, fará com que a apresentação seja direcionada:
- - O que você vai apresentar?
- - Qual é o local da apresentação?
- - Qual é a data da apresentação? E o seu tempo de duração?
- - Para quem a sua apresentação será direcionada?
- - Qual é o seu objetivo com a apresentação?
+   - O que você vai apresentar?
+   - Qual é o local da apresentação?
+   - Qual é a data da apresentação? E o seu tempo de duração?
+   - Para quem a sua apresentação será direcionada?
+   - Qual é o seu objetivo com a apresentação?
  
 ### Ser criativo
 * Criatividade não é uma espécie de dom, mas, sim de método:
